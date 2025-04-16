@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 10;
+  margin: 0;
+  padding: 0;
+  background: #ecf0f1;
+
+  background: #bdc3c7;
+
+  
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #777777;
+
+  
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 0px 120px;
+  text-decoration: none;
+}
+
+h1{
+  text-align: center;
+}

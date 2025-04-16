@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 5;
+    margin: 0;
+    padding: 0;
+    background: #ecf0f1;
+    text-align:  center;
+  }
+  div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+  }
+  
+  e{
+    font-family: Arial, sans-serif;
+  }

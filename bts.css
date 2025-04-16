@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 5;
+    margin: 0;
+    padding: 0;
+    background: #ecf0f1;
+  
+    
+  }
+  h1{
+    text-align: center;
+  }
+h2{font-family: 'Courier New', Courier, monospace;
+   text-align: left;
+   line-height: normal;
+
+
+}
+
+h3{font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+  line-height: normal;
+}
+h4{ font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: left;
+  line-height: normal;
+}
+
+div{ font-family: Georgia, 'Times New Roman', Times, serif;}
+ul{ line-height: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
