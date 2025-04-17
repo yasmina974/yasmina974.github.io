@@ -23,13 +23,6 @@ ul {
 li {
   display: inline;
 }
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 0px 120px;
-  text-decoration: none;
-}
 
 h1{
   text-align: center;
