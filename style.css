@@ -11,28 +11,16 @@ body {
 }
 
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #777777;
-
-  
-}
-
-li {
-  float: right;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 0px 120px;
-  text-decoration: none;
-}
-
 h1{
   text-align: center;
+}
+
+
+li{
+padding: 0; margin: 0;
+display: inline;
+	list-style: none;
+
+  display:inline-block;
+	margin: 0 30px;
 }
