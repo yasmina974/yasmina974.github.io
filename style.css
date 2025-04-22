@@ -11,6 +11,7 @@ body {
 }
 
 
+<<<<<<< HEAD
 h1{
   text-align: center;
 }
@@ -24,3 +25,21 @@ display: inline;
   display:inline-block;
 	margin: 0 30px;
 }
+=======
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #777777;
+
+  
+}
+li {
+  display: inline;
+}
+
+h1{
+  text-align: center;
+}
+>>>>>>> d0796c1daa8dfeb245c70a182f04a23e51212ec5
