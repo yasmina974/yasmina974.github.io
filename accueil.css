@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 5;
     margin: 0;
-    padding: 0;
+    padding: 2%;
     background: #ecf0f1;
     text-align:  center;
     
@@ -14,12 +14,12 @@ body {
   }
   
   e{
-    font-family: Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
   }
 
   button {
     position: relative;
-    background-color: #e46bca; /* Green */
+    background-color: #e46bca;
     border: none;
     color: white;
     padding: 16px 32px;
@@ -31,3 +31,19 @@ body {
     transition-duration: 0.4s;
     cursor: pointer;
   }
+
+  img{
+
+    text-align:center;
+    display: inline-block;
+            margin: 10px; /* Espace entre les photos */
+            max-width: 100px; /* Taille maximale des photos */
+            height: auto;
+  }
+
+  p{
+    font-family:cursive;
+    font-size: 18px;
+  text-align: left;
+  line-height: 2;
+  margin-bottom: 20px;}

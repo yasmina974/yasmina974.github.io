@@ -17,3 +17,7 @@ h2{
     transition-duration: 0.4s;
     cursor: pointer;
   }
+  p {
+  white-space: pre-line;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
